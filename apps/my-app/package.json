@@ -1,5 +1,5 @@
 {
-  "name": "nuxt-app",
+  "name": "@my/nuxt-app",
   "private": true,
   "type": "module",
   "scripts": {
@@ -8,7 +8,7 @@
     "generate": "nuxt generate",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare",
-    "typecheck": "npx nuxi typecheck ."
+    "typecheck": "npx nuxt typecheck ."
   },
   "dependencies": {
     "nuxt": "^3.12.4",
